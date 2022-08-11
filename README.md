@@ -1,5 +1,5 @@
 # EF6-DBFirst-Demo
-##Entity Framework 6 Database-First Demo Project
+## Entity Framework 6 Database-First Demo Project
 
 Instructions to run this demo project:
 - Download EF6-DBFirst-Demo project and open it in Visual Studio 2017.
